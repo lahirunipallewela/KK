@@ -1,0 +1,12 @@
+div{
+    width: 200px;
+    height: 250px;
+    margin: 100px;
+    background-color: aquamarine;
+    transition: height 2s;
+    color:aliceblue;
+}
+div:hover{
+    height: 2000px;
+}
+
